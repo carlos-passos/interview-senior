@@ -1,0 +1,1 @@
+INSERT INTO hero(id, name, race, power_stats_id) VALUES('27b68e2d-2f87-4893-beef-b4f56050a59d', 'Batman', 'HUMAN', 'cdc5a149-dedd-432b-8771-5b4ae0d18a47');
